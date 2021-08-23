@@ -9,20 +9,15 @@ col1:
   - title: Our Mission
     url: /contact/
 
-  - title: Contact Sales
+  - title: Contact us
     url: /contact/
 
 col2:
   - title: Services
-
-  - title: Products & Services
+  
+  - title: Recipe Resource
     url: /contact/
 
-  - title: Customer Stories
-    url: /contact/
-
-  - title: Download Apps
-    url: /contact/
 
 col3:
   - title: Information
@@ -33,5 +28,5 @@ col3:
   - title: Terms & Conditions
     url: /contact/
 
-  - title: Join Us
+  - title: Contact Us
     url: /contact/

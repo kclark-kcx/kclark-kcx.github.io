@@ -5,8 +5,8 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site title and description
-title:              SOUTIEN
-description:        Customer Support Helpdesk Jekyll theme
+title:              KCLARK RECIPES
+description:        Kendra Clark recipe site descriotion.
 lang:               en
 
 # Site subpath, e.g. /blog
@@ -23,35 +23,31 @@ logo:
   
 # Default author settings
 author:
-    name:           Pete Seth
+    name:           Kendra Clark
     title:          Lead Developer  
     avatar:         https://via.placeholder.com/80x80
 
 # Author settings, displayed on post pages if front matter references author name e.g. author: peter
 authors:
     evan:
-      name:         Evan Wells
+      name:         Kendra Clark
       title:        Support    
-      avatar:       https://via.placeholder.com/80x80
-    alex:
-      name:         Alex Koch
-      title:        Design Engineer     
       avatar:       https://via.placeholder.com/80x80
 
 # Social icons displayed in footer
 social:
     email:
     website:
-    facebook:       https://www.facebook.com/
+    facebook:       
     flickr:
     dribbble:
     github:
     googleplus:
-    instagram:      https://www.instagram.com/
+    instagram:      
     linkedin:
     pinterest:
-    twitter:        https://twitter.com/
-    vimeo:          https://vimeo.com/
+    twitter:        
+    vimeo:          
     youtube:
 
 # Share button
@@ -63,7 +59,7 @@ share:
 
 # Default footer image settings
 footer:
-    copyright:      Made by <a href="https://unbound.studio/">Unbound Studio</a> in Bratislava, Slovakia.
+    copyright:      Made by <a href="https://kclark-kcx.github.io/">Kendra Clark</a> in Portland, Oregon.
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
